@@ -1,4 +1,5 @@
-# About-me-
 
-![Stars](https://img.shields.io/github/stars/KrupalWarale/Free-unlimited-MultiLLM-chatbot-Puter.js?style=social)
-![Forks](https://img.shields.io/github/forks/KrupalWarale/Free-unlimited-MultiLLM-chatbot-Puter.js?style=social)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrupalWarale&show_icons=true&count_private=true&theme=radical" />
+</p>
